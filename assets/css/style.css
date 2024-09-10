@@ -1,0 +1,93 @@
+
+body{
+    background-color: rgb(11, 0, 20);
+    color: aliceblue;
+}
+header{
+    display: flex;
+    background-color: #000000;
+    border-radius: 20px;  
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+    justify-content:space-between;
+    align-items: center;
+}
+main{
+
+        border-radius: 20px;  
+        width: 80%;
+        margin: auto;
+        padding: 5px;
+}
+main img{
+    width: 8rem;
+    height: 8rem;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.producto{
+    background-color: #050020;
+    margin: 20px;
+    border-radius: 10px;
+    border: solid 1px white;
+
+}
+
+table{
+    width: 100%;
+}
+table td{
+    width: 33%;
+}
+
+footer{
+    width: 100%;
+    background-color: #000000;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+}
+
+footer a{
+    text-decoration: none;
+    color: aliceblue;
+}
+footer img{
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.foto{
+    width: 9rem;
+    height: 9rem;
+
+}
+
+.titulo{
+    color: aliceblue;
+    font-size: 2rem;
+    text-align: right;
+    
+}
+
+.descripcion{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-style: italic;
+    text-align: justify;
+}
+
+.valor{
+    font-size: larger;
+    font-weight: bold;
+}
+
+.tdValor{
+    text-align: right;
+    padding-right: 20px;
+}
