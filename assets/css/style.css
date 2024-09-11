@@ -60,8 +60,9 @@ footer img {
 }
 
 .foto {
-  width: 9rem;
+  width: 10rem;
   height: 9rem;
+  border-radius: 200px;
 }
 
 .titulo {
